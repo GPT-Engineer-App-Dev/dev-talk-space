@@ -20,6 +20,7 @@ const Index = () => {
           <Link href="#" color="white">Categories</Link>
           <Link href="#" color="white">About</Link>
           <Link href="#" color="white">Contact</Link>
+          <Link href="/register" color="white">Register</Link>
         </Stack>
       </Flex>
 
