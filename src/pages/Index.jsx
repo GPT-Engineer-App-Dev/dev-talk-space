@@ -22,6 +22,9 @@ const Index = () => {
           <Link href="#" color="white">Contact</Link>
           <Link href="/register" color="white">Register</Link>
         </Stack>
+        <Stack direction="row" spacing={4}>
+          <Link href="/create-post" color="white">Create Post</Link>
+        </Stack>
       </Flex>
 
       {/* Main Content Area */}
